@@ -18,7 +18,7 @@ The given program uses a greedy stack based approach to evaluate valid operation
 Unfortunately, this program may be wrong!
 
 # Instructions:
-1. create a file `~/.config/gdb/gdbinit`
+1. create a file `~/.gdbinit`
 2. Add the line `set history save on` to this file
 3. ssh into your favorite UTCS lab machine
 4. git clone this repository
