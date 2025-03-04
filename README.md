@@ -28,6 +28,7 @@ Unfortunately, this program may be wrong!
 8. Create a log file and inclue your shell logs and gdb logs
 9. commit and push your changes
 10. use git log and show proctor
+11. delete your local copy of this repository (you will need to use the r and f flags)
 
 To run an individual testcase use 
 `mini_ci <file>`. Use `mini_ci_reference <file>` for the reference output.
