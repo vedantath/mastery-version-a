@@ -1,0 +1,500 @@
+   36  ls -l ~/.ssh/vba252_ac_429
+   37  ls -l ~/.ssh/vba252_ac_429
+   38  cat ~/.ssh/vba252_ac_429.pub >> ~/.ssh/authorized_keys
+   39  chmod 600 ~/.ssh/authorized_keys
+   40  cat ~/.ssh/vba252_ac_429.pub >> ~/.ssh/authorized_keys
+   41  sudo systemctl status sshd
+   42  sudo systemctl start sshd
+   43  ssh -vvv -i ~/.ssh/vba252_ac_429 your_username@remote_host
+   44  ssh -i ~/.ssh/vba252_ac_429 vathale@actual_remote_ip
+   45  ssh -i ~/.ssh/vba252_ac_429 vathale@actual_remote_ip
+   46  ssh -i ~/.ssh/vba252_ac_429 vathale@actual_remote_ip
+   47  ssh -i ~/.ssh/vba252_ac_429 vathale@3.137.106.154
+   48  ping ping actual_remote_ip
+   49  ping 3.137.106.154
+   50  ping 3.13.62.31
+   51  ssh blueberry
+   52  ssh vba@blueberry
+   53  ssh -F /dev/null -i ~/.ssh/vba252_ac_429 vba@blueberry
+   54  ssh -F /dev/null -i ~/.ssh/vba252_ac_429 vba@blueberry
+   55  cat /etc/ssh/sshd_config
+   56  ssh vba@b
+   57  ssh vba@blueberry
+   58  ssh vba252@blueberry
+   59  ssh vba252_ac_429@blueberry
+   60  ssh vba252@blueberry
+   61  ping blueberry
+   62  ssh -vvv -i ~/.ssh/vba252_ac_429 vba@blueberry
+   63  ssh -vvv -i ~/.ssh/vba252_ac_429 vba252@blueberry
+   64  ssh-add -l
+   65  ssh -vvv -o PreferredAuthentications=password -i ~/.ssh/vba252_ac_429 vba252@blueberry
+   66  cat /u/vathale/.ssh/config
+   67  cat ~/.ssh/vba252_ac_429.pub
+   68  ssh-add ~/.ssh/vba252_ac_429
+   69  eval $(ssh-agent -s)
+   70  ssh-add ~/.ssh/vba252_ac_429
+   71  ssh-add -l
+   72  ssh blueberry
+   73  ssh vba252@blueberry
+   74  ls ~/.ssh/
+   75  ssh-add ~/.ssh/vba252_ac_429
+   76  cat ~/.ssh/config
+   77  nano ~/.ssh/config
+   78  cat ~/.ssh/config
+   79  ssh blueberry
+   80  ssh blueberry
+   81  ssh-add -l
+   82  cp /path/to/your/private_key ~/.ssh/vba252_ac_429
+   83  eval $(ssh-agent -s)
+   84  ssh-add ~/.ssh/vba252_ac_429
+   85  ssh-add -l
+   86  ssh vba252@blueberry
+   87  ssh -vvv vba252@blueberry
+   88  ssh -i ~/.ssh/vba252_ac_429 vba252@blueberry
+   89  clea
+   90  clear
+   91  ssh vba252@blueberry
+   92  ls
+   93  cd
+   94  ls
+   95  cd dow
+   96  cd Downloads/
+   97  ls
+   98  cp vba252_ac_429 ~/.ssh/
+   99  ssh vba252@blueberry
+  100  cat ~/.ssh/
+  101  cd
+  102  c
+  103  ssh vba252@blueberry
+  104  ssh blueberry
+  105  ls
+  106  cd ac-lab-vedantath/`
+  107  cd ac-lab-vedantath/
+  108  cat ~/.ssh/config
+  109  ls ~/.ssh/
+  110  ssh -vvv vba252@blueberry
+  111  ping blueberry
+  112  ping vba252@blueberry
+  113  ping 3.137.106.154
+  114  ping 128.83.139.103
+  115  ping cherry
+  116  ping 3.140.84.101
+  117  ping vba252@cherry
+  118  ping avacado
+  119  git clone https://github.com/CS429-SP2025/shared-repo-version-g-vedantath.git
+  120  ls
+  121  touch ~/.gdbinit
+  122  ls
+  123  touch .gdbinit
+  124  cat .gdbinit 
+  125  make clean
+  126  make debug
+  127  gdb ./bin/
+  128  make clean
+  129  make debug
+  130  cd ~/
+  131  nano ~/.gdbinit
+  132  ls
+  133  nano .gdbinit
+  134  cat .gdbinit 
+  135  ls
+  136  cd shared-repo-version-g-vedantath/
+  137  make clean
+  138  make debug
+  139  gdb bin/grind.o 
+  140  make clean
+  141  gdb
+  142  gdb grind.c
+  143  gdb bin/a.out
+  144  make clean
+  145  make debug
+  146  gdb bin/a.out
+  147  gdb bin/grind.0
+  148  gdb bin/grind.o
+  149  make clean
+  150  make debug
+  151  gdb bin
+  152  gdb
+  153  gdb bin/a.out -t short1.rep
+  154  bin/a.out -t short1.rep
+  155  bin/a.out -t testcases/short1.rep 
+  156  bin/a.out -t testcases/short2.rep 
+  157  gdb bin
+  158  gdb ./bin
+  159  gdb
+  160  gdb /.gdbinit
+  161  gdb a.out
+  162  gdb bin/a.out
+  163  gdb bin/a.out 
+  164  cd ..
+  165  ls
+  166  rm -rf shared-repo-version-g-vedantath/
+  167  ls
+  168  git clone https://github.com/CS429-SP2025/shared-repo-version-g-vedantath.git
+  169  git clone https://github.com/CS429-SP2025/shared-repo-version-f-vedantath.git
+  170  sudo extundelete /dev/sdX --restore-all
+  171  whoami
+  172  groups
+  173  ls
+  174  mkdir LDOS
+  175  ls
+  176  cd LDOS/
+  177  ls
+  178  ls
+  179  git clone https://github.com/ldos-project/ebpf-tutorial.git
+  180  ls
+  181  cd ebpf-tutorial
+  182  ls
+  183  pipenv install && pipenv shell
+  184  apt install pipenv
+  185  apt install pipenv
+  186  yes
+  187  clear
+  188  ls
+  189  pipenv install && pipenv shell
+  190  sudo apt install pipenv
+  191  pip install --user pipenv
+  192  pipenv shell
+  193  pipenv
+  194  export PATH="$HOME/.local/bin:$PATH"
+  195  pipenv
+  196  pipenv --version
+  197  pipenv shell
+  198  pipenv install && pipenv shell
+  199  pip install --user --upgrade virtualenv
+  200  virtualenv --version
+  201  pipenv install && pipenv shell
+  202  python3 --version
+  203  chmod +x bin/se-ref-wk*
+  204  make
+  205  test-hw -h
+  206  test-hw
+  207  make clean
+  208  make
+  209  bin/test-hw
+  210  bin/test-hw -h
+  211  bin/test-hw -v
+  212  bin/test-hw -f cond_holds
+  213  make clean
+  214  make
+  215  make clean
+  216  make
+  217  make clean
+  218  make
+  219  make clean
+  220  make
+  221  make clean
+  222  make
+  223  make clean
+  224  make
+  225  bin/test-hw
+  226  make clean
+  227  make
+  228  bin/test-hw
+  229  make clean
+  230  make
+  231  make clean
+  232  make
+  233  make clean
+  234  make
+  235  bin/test-hw
+  236  make clean
+  237  make
+  238  bin/test-hw
+  239  make clean
+  240  make
+  241  bin/test-hw
+  242  bin/test-hw -v
+  243  bin/test-hw -v1
+  244  gdb bin/test-hw
+  245  make clean
+  246  make
+  247  bin/test-hw -v1
+  248  make clean
+  249  make
+  250  bin/test-hw -v1
+  251  make clean
+  252  make
+  253  bin/test-hw -v1
+  254  make clean
+  255  make
+  256  bin/test-hw -v1
+  257  make clean
+  258  make
+  259  bin/test-hw -v1
+  260  make clean
+  261  make
+  262  bin/test-hw -v1
+  263  make clean
+  264  make
+  265  make clean
+  266  make
+  267  make clean
+  268  make
+  269  bin/test-hw -v1
+  270  make clean
+  271  make
+  272  make clean
+  273  make
+  274  make clean
+  275  make
+  276  bin/test-hw -v1
+  277  make clean'
+  278  make clean
+  279  make
+  280  bin/test-hw -v1
+  281  git add .
+  282  git commit -m "init"
+  283  git push
+  284  clear
+  285  make clean
+  286  make clean
+  287  make
+  288  bin/test-hw -v1
+  289  make clean
+  290  make
+  291  bin/test-hw -v1
+  292  make clean
+  293  make
+  294  bin/test-hw -v1
+  295  make clean
+  296  make
+  297  bin/test-hw -v1
+  298  make clean
+  299  make
+  300  bin/test-hw -v1
+  301  make clean
+  302  bin/test-hw -v1
+  303  make
+  304  bin/test-hw -v1
+  305  make clean
+  306  make
+  307  bin/test-hw -v1
+  308  make clean
+  309  make clean
+  310  make
+  311  bin/test-hw -v1
+  312  make clean
+  313  make
+  314  bin/test-hw -v1
+  315  make clean
+  316  make
+  317  bin/test-hw -v1
+  318  make clean
+  319  make
+  320  bin/test-hw -v1
+  321  make clean
+  322  make
+  323  bin/test-hw -v1
+  324  make clean
+  325  make
+  326  bin/test-hw -v1
+  327  make clean
+  328  make clean
+  329  make
+  330  bin/test-hw -v1
+  331  make clean
+  332  make
+  333  bin/test-hw -v1
+  334  make clean
+  335  make
+  336  bin/test-hw -v1
+  337  make clean
+  338  make
+  339  bin/test-hw -v1
+  340  make clean
+  341  make
+  342  bin/test-hw -v1
+  343  make clean
+  344  make
+  345  bin/test-hw -v1
+  346  make clean
+  347  make
+  348  bin/test-hw -v1
+  349  make clean
+  350  make
+  351  bin/test-hw -v1
+  352  make clean
+  353  make
+  354  bin/test-hw -v1
+  355  bin/test-hw -v1
+  356  bin/test-hw -v0
+  357  bin/test-hw -v2
+  358  make clean
+  359  make
+  360  bin/test-hw -v2
+  361  ls
+  362  ls
+  363  clear
+  364  ls
+  365  clear
+  366  ls
+  367  git clone https://github.com/CS429-SP2025/se-lab-vedant-srishruthik
+  368  ls
+  369  bin/test-hw -v2
+  370  bin/test-hw
+  371  bin/test-hw -v1
+  372  make clean
+  373  make
+  374  bin/test-hw -v2
+  375  bin/test-hw -v1
+  376  make clean
+  377  make
+  378  bin/test-hw -v1
+  379  bin/test-hw -v2
+  380  make clean
+  381  make
+  382  bin/test-hw -v2
+  383  bin/test-hw -v1
+  384  make clean
+  385  make
+  386  bin/test-hw -v1
+  387  bin/test-hw -v2
+  388  bin/test-hw
+  389  git add .
+  390  git commit -m "week1 pass"
+  391  git push
+  392  make clean
+  393  make
+  394  bin/test-hw -h
+  395  bin/test-hw -e
+  396  bin/test-hw -e
+  397  bin/test-hw -e -v2
+  398  make clean
+  399  makje
+  400  make
+  401  bin/test-hw -e -v2
+  402  bin/test-hw
+  403  bin/test-hw -v2
+  404  bin/test-hw -e -v2
+  405  make clean
+  406  make
+  407  bin/test-hw -e -v2
+  408  make clean
+  409  make
+  410  bin/test-hw -e -v2
+  411  make clean
+  412  make
+  413  bin/test-hw -e -v2
+  414  make clean
+  415  bin/test-hw -e -v2
+  416  make clean
+  417  makje
+  418  make
+  419  bin/test-hw -e -v2
+  420  make clean
+  421  make
+  422  bin/test-hw -e -v2
+  423  make clean
+  424  make
+  425  bin/test-hw -v2
+  426  bin/test-hw
+  427  git add .
+  428  git commit -m "formatted code"
+  429  git push
+  430  make clean'
+  431  make clean
+  432  make
+  433  bin/test-hw -v2
+  434  make clean
+  435  make
+  436  bin/test-wk1
+  437  bin/test-w1
+  438  bin/test-se
+  439  b
+  440  git config --list
+  441  git config user.name
+  442  git add .
+  443  git commit -m "fetch v1"
+  444  git push
+  445  pwd
+  446  slsw
+  447  clear
+  448  pwd
+  449  ls
+  450  pwd
+  451  touch ~/.gdbinit
+  452  ls -a
+  453  echo “set history save on” > ~/.gdbinit
+  454  cat ~/.gdbinit
+  455  ls
+  456  mkdir cs429-mastery-practice
+  457  ls
+  458  cd cs429-mastery-practice/
+  459  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  460  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  461  ls
+  462  ls
+  463  ls
+  464  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  465  cd .
+  466  cd ..
+  467  ls
+  468  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  469  ls ~/.ssh
+  470  cat ~/.ssh/id_ed25519.pub
+  471  ssh -T git@github.com
+  472  ssh -T git@github.com
+  473  ls cs429-mastery-practice/
+  474  ls
+  475  cd cs429-mastery-practice/
+  476  ls
+  477  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  478  ls
+  479  cd ..
+  480  ls
+  481  cd cs429-mastery-practice/
+  482  ls
+  483  git add .
+  484  git commit -m "decode + execute v1"
+  485  git push
+  486  make clean
+  487  make
+  488  bin/test-se -w1
+  489  ls
+  490  pwd
+  491  touch ~/.gdbinit
+  492  ls -a
+  493  echo "set history save on" > ~/.gdbinit
+  494  cat ~/.gdbinit
+  495  ls
+  496  cd cs429-mastery-practice/
+  497  ls
+  498  git clone git@github.com:vedantath/mastery-version-a.git
+  499  ls
+  500  make
+  501  make check
+  502  make debug
+  503  make clean
+  504  make debug
+  505  gdb mini_ci
+  506  make clean
+  507  make debug
+  508  gdb mini_ci
+  509  make clean
+  510  make debug
+  511  gdb mini_ci
+  512  make check
+  513  mini_ci testcases/basic_add.s
+  514  make clean
+  515  make
+  516  mini_ci testcases/basic_add.s
+  517  make clean
+  518  make debug
+  519  gdb mini_ci
+  520  make clean
+  521  make debug
+  522  gdb mini_ci
+  523  mini_ci_reference testcases/err_ops2.s
+  524  mini_ci testcases/err_ops2.s
+  525  make check
+  526  make clean
+  527  make check
+  528  make clean
+  529  make debug
+  530  make clean
+  531  make tests
+  532  make clean
+  533  make check
+  534  make clean
+  535  history > shell_log.txt
